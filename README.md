@@ -1,33 +1,33 @@
-»ùÓÚJavaµÄÈÕÀú
+åŸºäºJavaçš„æ—¥å†
 ===========
 
 
 
-![Ô¤ÀÀÍ¼](https://raw.githubusercontent.com/muyangren907/Java-Calendar/master/screenshot/1.png)
+![é¢„è§ˆå›¾](https://raw.githubusercontent.com/muyangren907/Java-Calendar/master/screenshot/1.png)
 
-## ËµÃ÷
+## è¯´æ˜
 
-- Java±àĞ´µÄÈÕÀú£¬½ö¹©²Î¿¼
+- Javaç¼–å†™çš„æ—¥å†ï¼Œä»…ä¾›å‚è€ƒ
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-###	¢Ù
+###	â‘ 
 
-- ÏÂÔØÔ´´úÂë
+- ä¸‹è½½æºä»£ç 
 
-- ±àÒë
+- ç¼–è¯‘
 
 ```
 javac NewCalendar.java -d ./ -encoding utf-8
 ```
 
--	ÔËĞĞ
+-	è¿è¡Œ
 
 ```
 java NewCalendar
 ```
 
-### ¢Ú
+### â‘¡
 
-- ÏÂÔØjar°üÔËĞĞ
+- ä¸‹è½½jaråŒ…è¿è¡Œ
 [Releases](https://github.com/muyangren907/Java-Calendar/releases)
