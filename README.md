@@ -1,7 +1,7 @@
 基于Java的日历
 ===========
 
-![](https://raw.githubusercontent.com/muyangren907/Java-Calendar/master/screenshots/1.png)
+![](https://raw.githubusercontent.com/muyangren907/Java-Calendar/master/screenshot/1.png)
 
 ## 说明
 
